@@ -10,7 +10,7 @@ public class Student {
     private String name;
     private int grade;
     private double totalFee;
-    private double feePaid;ß
+    private double feePaid;
     private double remainingFee;
 
     /**
