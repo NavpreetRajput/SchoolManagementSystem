@@ -2,7 +2,11 @@
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-##Introduction
+Reruirements
+Installation
+Import it in Intellij IDEA or any other Java IDE and let Gradle download the required dependencies for you.
+
+Run the application :D
 
 
 ## Folder Structure
