@@ -9,7 +9,7 @@ Java SE 16.0.1
 Java
 IDE(Visual Studio Code, Eclipse etc.)
 
-## Importing and running the project through Eclipse IDE in Mac
+## Importing and running the project through Eclipse IDE on Mac
 Step 0: Open Eclipse Enterprise Edition. [Install, if not already installed.]
 
 Step 1: Click On File > Import > Git > Projects From Git(with smart import) > Clone Uri > Paste The Repository Url as:https://github.com/NavpreetRajput/SchoolManagementSystem Select Next > Next >(Choose the Directory where you want to save the project, For Example: EClipse Workspace) Select Next > (Select import as General Project) Select Next> Finish
